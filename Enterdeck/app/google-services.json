@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64080405970",
+    "project_id": "entredeck-52bba",
+    "storage_bucket": "entredeck-52bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64080405970:android:94d3f5940fed8337c1140b",
+        "android_client_info": {
+          "package_name": "com.example.enter131212"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64080405970-sogn48peircgnalg59kaic3kbjtcfsin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBH8szsPyxHsBr5C0vajgEcCURQWVIBls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64080405970-sogn48peircgnalg59kaic3kbjtcfsin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
